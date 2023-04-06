@@ -1,0 +1,50 @@
+[
+  {
+    "accuracy": 100,
+    "power": 40,
+    "pp": 35,
+    "elements": "63ce798adbde71362b88c3a1",
+    "name": "Pound",
+    "description": "The Pound skill has a power of 40 and an accuracy of 100"
+  },
+  {
+    "accuracy": 100,
+    "power": 50,
+    "pp": 25,
+    "elements": "63ce798adbde71362b88c3b1",
+    "name": "Karate Chop",
+    "description": "The Karate Chop skill has a power of 50 and an accuracy of 100"
+  },
+  {
+    "accuracy": 85,
+    "power": 15,
+    "pp": 10,
+    "elements": "63ce798adbde71362b88c3b7",
+    "name": "Double Slap",
+    "description": "The Double Slap skill has a power of 15 and an accuracy of 85"
+  },
+  {
+    "accuracy": 85,
+    "power": 18,
+    "pp": 15,
+    "elements": "63ce798adbde71362b88c3bf",
+    "name": "Comet Punch",
+    "description": "The Comet Punch skill has a power of 18 and an accuracy of 85"
+  },
+  {
+    "accuracy": 85,
+    "power": 80,
+    "pp": 20,
+    "elements": "63ce798adbde71362b88c3bf",
+    "name": "Mega Punch",
+    "description": "The Mega Punch skill has a power of 80 and an accuracy of 85"
+  },
+  {
+    "accuracy": 100,
+    "power": 40,
+    "pp": 20,
+    "elements": "63ce8f55fc1ac2ca69bf5500",
+    "name": "Pay Day",
+    "description": "The Pay Day skill has a power of 40 and an accuracy of 100"
+  }
+]

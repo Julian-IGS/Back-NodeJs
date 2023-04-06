@@ -1,0 +1,76 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "My User Project CRUD",
+    "description": "My User Project Application API",
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "host": "localhost:5000",
+  "basePath": "/",
+  "tags": [
+    {
+      "name": "Pokemon",
+      "description": "API for pokemon in the system"
+    }
+  ],
+  "schemes": [
+    "http"
+  ],
+  "consumes": [
+    "application/json"
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "paths": {
+    "/pokemons": {
+      "get": {
+        "tags": [
+          "Pokemons"
+        ],
+        "summary": "Get all Pokemons in system",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#./models/"
+            }
+          }
+        }
+      }
+    },
+    "/addPokemon": {
+      "post": {
+        "tags": [
+          "Pokemon"
+        ],
+        "description": "Create new pokemon in system",
+        "parameters": [
+          {
+            "name": "pokemon",
+            "in": "body",
+            "description": "Pokemon that we want to create",
+            "schema": {
+              "$ref": "#/definitions/Pokemons"
+            }
+          }
+        ],
+        "produces": [
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "New pokemon is created",
+            "schema": {
+              "$ref": "#/definitions/Pokemons"
+            }
+          }
+        }
+      }
+    }
+  }
+}

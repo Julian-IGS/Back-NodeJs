@@ -1,0 +1,189 @@
+[
+  {
+    "pokedexId": 1,
+    "name": "Bulbasaur",
+    "height": 204,
+    "weight": 15.2,
+    "stats": {
+      "hp": 30,
+      "attack": 30,
+      "defense": 30,
+      "special_attack": 40,
+      "special_defense": 40,
+      "speed": 30
+    },
+    "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "elements": "63ce798adbde71362b88c3b5",
+    "learningSkills": "63ce82234e374897fdabcf9d"
+  },
+  {
+    "pokedexId": 2,
+    "name": "Ivysaur",
+    "height": 303,
+    "weight": 28.7,
+    "stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 40,
+      "special_attack": 50,
+      "special_defense": 50,
+      "speed": 40
+    },
+    "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+    "elements": "63ce798adbde71362b88c3b5",
+    "learningSkills": "63ce82234e374897fdabcf9d"
+  },
+  {
+    "pokedexId": 3,
+    "name": "Venusaur",
+    "height": 607,
+    "weight": 220.7,
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 50,
+      "special_attack": 60,
+      "special_defense": 60,
+      "speed": 50
+    },
+    "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "elements": "63ce798adbde71362b88c3b5",
+    "learningSkills": "63ce82234e374897fdabcf9d"
+  },
+  {
+    "pokedexId": 4,
+    "name": "Charmander",
+    "height": 200,
+    "weight": 18.7,
+    "stats": {
+      "hp": 30,
+      "attack": 40,
+      "defense": 30,
+      "special_attack": 40,
+      "special_defense": 30,
+      "speed": 40
+    },
+    "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "elements": "63ce798adbde71362b88c3b1",
+    "learningSkills": "63ce82234e374897fdabcffa"
+  },
+  {
+    "pokedexId": 5,
+    "name": "Charmeleon",
+    "height": 200,
+    "weight": 18.7,
+    "stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 40,
+      "special_attack": 50,
+      "special_defense": 40,
+      "speed": 50
+    },
+    "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+    "elements": "63ce798adbde71362b88c3b1",
+    "learningSkills": "63ce82234e374897fdabcffa"
+  },
+  {
+    "pokedexId": 6,
+    "name": "Charizard",
+    "height": 507,
+    "weight": 199.7,
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 50,
+      "special_attack": 70,
+      "special_defense": 50,
+      "speed": 60
+    },
+    "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+    "elements": "63ce798adbde71362b88c3b1",
+    "learningSkills": "63ce82234e374897fdabcffa"
+  },
+  {
+    "pokedexId": 7,
+    "name": "Squirtle",
+    "height": 108,
+    "weight": 19.7,
+    "stats": {
+      "hp": 30,
+      "attack": 30,
+      "defense": 40,
+      "special_attack": 30,
+      "special_defense": 40,
+      "speed": 30
+    },
+    "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+    "elements": "63ce798adbde71362b88c3b3",
+    "learningSkills": "63ce82234e374897fdabcfce"
+  },
+  {
+    "pokedexId": 8,
+    "name": "Wartortle",
+    "height": 303,
+    "weight": 49.7,
+    "stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 50,
+      "special_attack": 40,
+      "special_defense": 50,
+      "speed": 40
+    },
+    "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+    "elements": "63ce798adbde71362b88c3b3",
+    "learningSkills": "63ce82234e374897fdabcfce"
+  },
+  {
+    "pokedexId": 9,
+    "name": "Blastoise",
+    "height": 503,
+    "weight": 188.7,
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 60,
+      "special_attack": 50,
+      "special_defense": 70,
+      "speed": 50
+    },
+    "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
+    "elements": "63ce798adbde71362b88c3b3",
+    "learningSkills": "63ce82234e374897fdabcfce"
+  },
+  {
+    "pokedexId": 25,
+    "name": "Pikachu",
+    "height": 104,
+    "weight": 13.7,
+    "stats": {
+      "hp": 30,
+      "attack": 40,
+      "defense": 30,
+      "special_attack": 30,
+      "special_defense": 30,
+      "speed": 60
+    },
+    "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "elements": "63ce798adbde71362b88c3b7",
+    "learningSkills": "63ce82234e374897fdabcf8a"
+  },
+  {
+    "pokedexId": 150,
+    "name": "Mewtwo",
+    "height": 607,
+    "weight": 269.7,
+    "stats": {
+      "hp": 70,
+      "attack": 70,
+      "defense": 60,
+      "special_attack": 100,
+      "special_defense": 60,
+      "speed": 80
+    },
+    "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+    "elements": "63ce798adbde71362b88c3b9",
+    "learningSkills": "63ce82234e374897fdabcfd9"
+  }
+]
